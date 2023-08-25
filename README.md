@@ -2,7 +2,7 @@
 
 Finance Manager is a self-developed application written in procedural Python. It allows users to record their expenses in specific categories, including the date. The project encompasses essential components such as a user-friendly GUI, complete button functionality, windows management, and comprehensive exception handling for possible user errors (e.g., omitting a date or not specifying an expense category). User input is stored in a database file (.db). Additionally, an attached "emailsenderv2.py" file contains a basic script for sending email messages with attachments at predefined intervals.
 
-The program currently leverages modules such as sqlite, datetime, and tkinter to create a graphical user interface.
+The program currently leverages modules such as sqlite, datetime, and tkinter.
 
 ## In Progress
 
