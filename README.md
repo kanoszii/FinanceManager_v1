@@ -4,6 +4,8 @@ Finance Manager is a self-developed application written in procedural Python. It
 
 The program currently leverages modules such as sqlite, datetime, and tkinter.
 
+![GUI](https://github.com/kanoszii/FinanceManager_v1/blob/main/photo1.png?raw=true)
+
 ## In Progress
 
 - Adding sorting functionality based on product category, product name, price, and date.
